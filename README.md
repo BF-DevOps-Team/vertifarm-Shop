@@ -28,6 +28,12 @@ Anouar [@anouarchairib](https://github.com/anouarchairib)
 
 Maxime [@maxmbed](https://github.com/maxmbed)
 
+
 ## Contribuer
 
 Vous êtes libre de contribuer via pull-request.
+
+## Installation
+
+Afin d'installer uv il faut posseder un accçes à internet.
+
