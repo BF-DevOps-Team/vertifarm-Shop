@@ -27,3 +27,7 @@ Naoufal[@n-bel](https://github.com/n-bel)
 Anouar [@anouarchairib](https://github.com/anouarchairib)
 
 Maxime [@maxmbed](https://github.com/maxmbed)
+
+## Utilisation
+
+Pour lancer la boutique VertiFarm, installez les dépendances du projet, puis démarrez le service en suivant les instructions de lancement.
