@@ -31,6 +31,16 @@ Maxime [@maxmbed](https://github.com/maxmbed)
 ## Utilisation
 
 Pour lancer la boutique VertiFarm, installez les dépendances du projet, puis démarrez le service en suivant les instructions de lancement.
+
 ## Contribuer
 
 Vous êtes libre de contribuer via pull-request.
+
+## Installation
+
+Afin d'installer uv il faut posseder un accçes à internet.
+
+
+
+
+
