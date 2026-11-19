@@ -19,3 +19,11 @@ pip install -r requirements.txt
 uvicorn app.main:app --port 8000
 python -m pytest
 ```
+
+## Èquipe
+
+Naoufal[@n-bel](https://github.com/n-bel)
+
+Anouar [@anouarchairib](https://github.com/anouarchairib)
+
+Maxime [@maxmbed](https://github.com/maxmbed)
