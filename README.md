@@ -1,3 +1,4 @@
+
 # shop (port 8000)
 
 Boutique web (front + API de commande). **Seul service exposé au public** → cible idéale
@@ -27,3 +28,4 @@ Naoufal[@n-bel](https://github.com/n-bel)
 Anouar [@anouarchairib](https://github.com/anouarchairib)
 
 Maxime [@maxmbed](https://github.com/maxmbed)
+
