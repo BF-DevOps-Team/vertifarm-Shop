@@ -27,3 +27,7 @@ Naoufal[@n-bel](https://github.com/n-bel)
 Anouar [@anouarchairib](https://github.com/anouarchairib)
 
 Maxime [@maxmbed](https://github.com/maxmbed)
+
+## Contribuer
+
+Vous êtes libre de contribuer via pull-request.
